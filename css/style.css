@@ -195,7 +195,7 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,te
 .hero{
   height:100vh;
   min-height:800px;
-  background:linear-gradient(rgba(0,0,0,.7),rgba(0,0,0,.7)), url('../imagens/equipamento-sanitario02.jpg') center/cover no-repeat;
+  background:linear-gradient(rgba(0,0,0,.7),rgba(0,0,0,.7)), url('../imagens/equipamento-sanitario02.webp') center/cover no-repeat;
   position:relative;
   display:flex;
   align-items:center;
@@ -480,7 +480,7 @@ a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,te
 /* ====== Testimonials ====== */
 .testimonials{
   padding:120px 0;
-  background:linear-gradient(rgba(18,18,18,.9),rgba(18,18,18,.9)), url('../imagens/testimonial-bg.jpg') center/cover no-repeat;
+  background:linear-gradient(rgba(18,18,18,.9),rgba(18,18,18,.9)), url('../imagens/Bombas.webp') center/cover no-repeat;
   color:#fff
 }
 
